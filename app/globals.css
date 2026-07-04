@@ -24,3 +24,14 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #030712
+}
+section {
+  scroll-margin-top: 90px;
+}
